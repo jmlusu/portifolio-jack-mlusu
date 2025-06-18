@@ -75,7 +75,7 @@ Here are some of the key projects highlighted on the portfolio. You can find mor
 
 ## 📫 Contact
 
-**Jack M. Lusu**
+**Jack MLusu**
 
 * **Email:** [your-email@example.com](mailto:your-email@example.com)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
